@@ -107,6 +107,7 @@ class _MyHomePageState extends State<ShopMoreOptions> {
                       title: "Quick Replies",
                       text: "Reuse frequient messages",
                     ),
+                    Spacer(flex: 1),
                     Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       children: [

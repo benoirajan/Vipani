@@ -44,10 +44,10 @@ class VipaniApp extends StatelessWidget {
 
       /// Uncomment each code to get each Screens
       /// [GreetingMsg]
-        //home: const GreetingMsg(title: 'sd'),
-        //home: const AwayMsg(title: 'sd'),
-        home: const ShopMoreOptions(title: 'sd'),
-        //home: const QuickReplies(title: 'sd')
+      //   home: const GreetingMsg(title: 'sd'),
+      //   home: const AwayMsg(title: 'sd'),
+      //   home: const ShopMoreOptions(title: 'sd'),
+        home: const QuickReplies(title: 'sd')
 
 
     );

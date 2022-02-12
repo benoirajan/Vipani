@@ -13,6 +13,7 @@ class MsgCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
+      margin: const EdgeInsets.only(bottom: 16),
         padding: const EdgeInsets.symmetric(horizontal: 18, vertical: 18),
         decoration: const BoxDecoration(
             color: Color(0xff212224),
